@@ -1,7 +1,7 @@
 # Matt Tesch
 
-Linux systems administrator, 25 years, RHCSA. I build robots and self-hosted AI, and I write the guide
-while I build so the next person can rebuild it from a blank drive.
+Systems Administrator, 20 years, RHCSA. I like to build robots and self-hosted AI, and I write guides. I like big bots and I cannot lie.
+I try to build so the next person can also.
 
 [![lightBot](https://img.youtube.com/vi/S2A089r5JIQ/0.jpg)](https://www.youtube.com/shorts/S2A089r5JIQ)
 
